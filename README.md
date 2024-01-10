@@ -1,4 +1,4 @@
-I am using the pandas library in the project. The database contains data about pesticide use in different countries. 
+I am using the pandas, sklearn and matplotlib libraries in the project. The database contains data about pesticide use in different countries. 
 
 Using a Simple linear Regression model for pesticide use in Mexico.
 
